@@ -1,0 +1,45 @@
+_repo: Knightly-Legends-of-Wales-or-The-Boy-s-Mabinogion-Being-the-Earliest-Welsh-Tales-of-King-Arth__67425
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fredericks, Alfred
+    alias: Frederick, Alfred
+    deathdate: 1926
+    gutenberg_agent_id: '25315'
+    url: http://www.gutenberg.org/2009/agents/25315
+creator:
+  author:
+    agent_name: Lanier, Sidney
+    birthdate: 1842
+    deathdate: 1881
+    gutenberg_agent_id: '299'
+    url: http://www.gutenberg.org/2009/agents/299
+    wikipedia: https://en.wikipedia.org/wiki/Sidney_Lanier
+description: ''
+gutenberg_issued: '2022-02-17'
+identifiers:
+  gutenberg: '67425'
+language: en
+pgterms:marc904: https://archive.org/details/knightlylegendso00lani2/page/n9/mode/2up
+pgterms:marc905: 20210626103901lanier
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :Charles Scribner's Sons,1884,copyright 1909,copyright
+  1912,pubdate 1932.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Arthur, King -- Legends'
+- !lcsh 'Folklore -- Wales'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcsh 'Knights and knighthood -- Folklore'
+- !lcsh 'Tales -- Wales -- Adaptations'
+- GITenberg
+title: "Knightly Legends of Wales; or, The Boy's Mabinogion\r\nBeing the Earliest\
+  \ Welsh Tales of King Arthur in the Famous Red Book of Hergest"
+url: http://www.gutenberg.org/ebooks/67425
